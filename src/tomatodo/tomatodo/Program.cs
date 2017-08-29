@@ -9,10 +9,10 @@ namespace tomatodo
 	{
 		/// <summary>
 		/// アプリケーションのメイン エントリ ポイントです。
-		/// </summary>
 		[STAThread]
 		static void Main()
 		{
+			//メイン１
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new FormMain());
