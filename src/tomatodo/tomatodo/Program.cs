@@ -15,7 +15,8 @@ namespace tomatodo
 			//メイン１
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new FormMain());
+			Application.Run(new FormMiniIn());
+			//Application.Run(new FormMain());
 		}
 	}
 }

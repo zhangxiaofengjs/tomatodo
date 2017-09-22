@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tomatodo", "tomatodo\tomatodo.csproj", "{234A0C43-B8B3-4FBA-A632-1EA5755E2982}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomatodo", "tomatodo\Tomatodo.csproj", "{234A0C43-B8B3-4FBA-A632-1EA5755E2982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomatoIF", "TomatoIF\TomatoIF.csproj", "{8E7CA179-1961-4F21-805B-66652A66F9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HInfoIF", "HInfoIF\HInfoIF.csproj", "{5A1EA3DA-F915-40FC-9AD2-4BE0A5123081}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{234A0C43-B8B3-4FBA-A632-1EA5755E2982}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{234A0C43-B8B3-4FBA-A632-1EA5755E2982}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{234A0C43-B8B3-4FBA-A632-1EA5755E2982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7CA179-1961-4F21-805B-66652A66F9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7CA179-1961-4F21-805B-66652A66F9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7CA179-1961-4F21-805B-66652A66F9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7CA179-1961-4F21-805B-66652A66F9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1EA3DA-F915-40FC-9AD2-4BE0A5123081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1EA3DA-F915-40FC-9AD2-4BE0A5123081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1EA3DA-F915-40FC-9AD2-4BE0A5123081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1EA3DA-F915-40FC-9AD2-4BE0A5123081}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
